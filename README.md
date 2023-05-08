@@ -1,2 +1,2 @@
-# java-prep-questions
-This content is provided for free by SNVA prior to technical interview. I have cloned my own copy in order to study and practice. 
+# Java Java Jave
+SNVA Java Work. I have cloned my own copy in order to study and practice. 
